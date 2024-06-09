@@ -1,4 +1,4 @@
-# L3_koszty_czasow_zuzanna_lukiewska
+# L3_koszty_czasow_zadanie2
 
 To aplikacja konsolowa napisana w języku C#, która analizuje wydajność różnych algorytmów szyfrowania w kontekście zużycia czasu i zasobów pamięci oraz dysku. Program testuje różne algorytmy szyfrowania, mierząc czas potrzebny na zaszyfrowanie pojedynczego bloku danych oraz szybkość przetwarzania w pamięci RAM i na dysku twardym.
 
